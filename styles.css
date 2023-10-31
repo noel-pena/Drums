@@ -17,35 +17,35 @@ footer {
 }
 
 .w {
-background-image: url('images/tom1.png');
+background-image: url('images/tom1.PNG');
 background-blend-mode:exclusion;
 }
 
 .a {
-background-image: url('images/kick.png');
+background-image: url('images/kick.PNG');
 }
 
 .s {
-background-image: url('images/snare.png');
+background-image: url('images/snare.PNG');
 }
 
 .d {
-background-image: url('images/tom2.png');
+background-image: url('images/tom2.PNG');
 background-blend-mode: difference;
 }
 
 .j {
-background-image: url('images/tom3.png');
+background-image: url('images/tom3.PNG');
 background-blend-mode: difference;
 }
 
 .k {
-background-image: url('images/tom4.png');
+background-image: url('images/tom4.PNG');
 background-blend-mode: difference;
 }
 
 .l {
-background-image: url('images/crash.png');
+background-image: url('images/crash.PNG');
 }
 
 .set {
